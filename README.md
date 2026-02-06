@@ -7,13 +7,10 @@ AkhiRAT is a tool designed to give the control of the android system remotely an
 
 > AkhiRAT also works on Android 10 (Q) but some of the interpreter command will be unstable. 
 
-## Screenshots
-
-![AkhiRAT](Screenshots/5.jpg "AkhiRAT in action")
 ## Features of AkhiRAT 
 * Full persistent backdoor
-* Fully undetectable by any antivirus scanner [VirusTotal](https://www.virustotal.com/gui/file/e900b5d37ad8c8f79ca000b148253af04696a85fdfc245861cfb226dd86562df/detection)
-* Invisible icon on install
+* Fully undetectable by any antivirus scanner
+* nvisible icon on install
 * Light weight apk which runs 24*7 in background
 * App starts automatically on boot up 
 * Can record audio, video, take picture from both camera
